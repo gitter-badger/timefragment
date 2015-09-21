@@ -1,5 +1,7 @@
 # TimeFragment ![Chinese version](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png)
 
+[![Join the chat at https://gitter.im/TrustWorty/timefragment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TrustWorty/timefragment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/Luxurioust/timefragment.svg?branch=master)](https://travis-ci.org/Luxurioust/timefragment)
 
 - This is a Laravel Framework project, develope by luxurioust, if you interest in this, you can e-mail me xuri.me[at]gmail.com.
